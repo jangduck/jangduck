@@ -14,6 +14,7 @@
   <a href="max5752@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
 
 <!--
 **jangduck/jangduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
