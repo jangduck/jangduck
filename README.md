@@ -1,4 +1,4 @@
-### 안녕하세요! 정보통신학부 2019219059 장민규입니다.
+### 안녕하세요! 장민규입니다.
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
