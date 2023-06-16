@@ -1,9 +1,8 @@
-### Hi there 👋
-
+### 안녕하세요! 정보통신학부 2019219059 장민규입니다.
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=안녕하세요! 정보통신학부 2019219059 장민규입니다.&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 ![header](https://capsule-render.vercel.app/api?type=헤더종류&color=도형색&height=150&section=header&text=표시할글자들&fontColor=글씨색&fontSize=폰트크기&animation=애니메이션효과종류&fontAlignY=글씨상하정렬)
 //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
