@@ -45,7 +45,7 @@
 📫 연락처
 
 - **Email**: [max5752@naver.com]   
-- **GitHub**: ([https://github.com/your-github-id](https://github.com/jangduck))
+- **GitHub**: (https://github.com/jangduck)
 
 ---
 
